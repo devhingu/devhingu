@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devhingu
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently flutter developer.
 
 <!---
 devhingu/devhingu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
